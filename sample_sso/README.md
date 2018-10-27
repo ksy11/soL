@@ -1,0 +1,2 @@
+- >= 0.5.0  //// bytes memory bbb = abi.encodeWithSignature("isOwner(string,address)", "aaaaa", address(0x1e17de67575fcae7fc85d89db1c42be513806250));
+- >= 0.5.0  //// (a, b) = abi.decode(data, (string, address)); ????????? 아직 모름..
