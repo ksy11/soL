@@ -1,2 +1,3 @@
 .metadata/
-/*.project
+/*/.project
+/*/solidity-gen/
